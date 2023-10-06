@@ -1,0 +1,9 @@
+system:index,areaList,batch,.geo
+1_1_1_1_1_1_1_2_0,"[1709283159, 2078783, 583849, 4508966]",Hol_change_dw_2015_2020,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_1_1_1_1_1_2_0,"[134022594, 621848, 89177, 4308159]",Hole_change_dw_2016_2022,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_1_1_1_1_2_0,"[1709283159, 2078783, 583849, 4508966]",Hol_change_dw_2015_2020,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_1_1_1_2_0,"[327642134, 2643509, 332533, 46091652]",Asker_change_dw_2016_2022,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_1_1_2_0,"[256697156, 1647024, 301323, 41828137]",Fredrikstad_change_dw_2017_2022,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_1_2_0,"[151320931, 951920, 230713, 40958312]",Bærum_change_dw_2016_2022,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1_2_0,"[351711804, 1640443, 263700, 30072207]",Sarpsborg_change_dw_2017_2022,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_0,"[516744762, 2316271, 291859, 4999584]",Gol_change_dw_2016_2020,"{""type"":""MultiPoint"",""coordinates"":[]}"
